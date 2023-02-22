@@ -1,0 +1,30 @@
+PLINK v1.90b6.26 64-bit (2 Apr 2022)
+Options in effect:
+  --allow-extra-chr
+  --lfile example_final_report
+  --out example_final_report_tovcf
+  --recode vcf
+
+Hostname: SimonsonLabDesktop
+Working directory: /mnt/c/Users/SimonsonLab/Desktop/illumina_finalreport_to_plink
+Start time: Tue Feb 21 17:40:47 2023
+
+Random number seed: 1677030047
+31944 MB RAM detected; reserving 15972 MB for main workspace.
+Processing .lgen file... done.
+--lfile: example_final_report_tovcf-temporary.bed +
+example_final_report_tovcf-temporary.bim +
+example_final_report_tovcf-temporary.fam written.
+80 variants loaded from .bim file.
+1 person (0 males, 0 females, 1 ambiguous) loaded from .fam.
+Ambiguous sex ID written to example_final_report_tovcf.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1 founder and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.9375.
+80 variants and 1 person pass filters and QC.
+Note: No phenotypes present.
+Warning: Underscore(s) present in sample IDs.
+--recode vcf to example_final_report_tovcf.vcf ... done.
+
+End time: Tue Feb 21 17:40:47 2023
